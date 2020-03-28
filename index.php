@@ -1,5 +1,5 @@
 <?php
 
-	echo "First php file";
+	echo "First <strong>php</strong> file";
 
 >?
